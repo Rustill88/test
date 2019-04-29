@@ -1,0 +1,21 @@
+h1 { 
+	align:center;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 24px;
+	color: #066;
+	font-style: italic;
+}
+
+.reg {
+
+	font-family: Verdana, Geneva, sans-serif;
+	color: #957056;
+	font-size: 16px;
+	text-decoration: none;
+}
+
+.country {
+    color: #957056;
+	font-size: 14px; 
+}
+
